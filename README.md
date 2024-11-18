@@ -11,8 +11,6 @@ OpenAI’s founding idea emerged from the recognition that AI technology, if dev
 
 **Funding:** OpenAI has raised significant funding, including over $11 billion from backers such as Microsoft. The company operates in close collaboration with Microsoft through the Azure cloud infrastructure, enabling scalable AI development and deployment.
 
-[OpenAI website](https://www.openai.com/)
-
 ---
 
 ## Business Activities
@@ -60,10 +58,6 @@ OpenAI’s models, such as GPT-4, stand out for their versatility and performanc
 - **xAI:** Elon Musk's AI company, plans to train the largest model in coming years.
 - **Meta AI:** Developing cutting-edge open-source models like LLaMA.  
 
-[Dwarkesh Patel YouTube Channel](https://www.youtube.com/@dwarkeshpatel)
-[Machine Learning Street Talk YouTube Channel](https://www.youtube.com/@MachineLearningStreetTalk)
-[Lex Fridman YouTube Channel](https://www.youtube.com/@lexfridman)
-
 ---
 
 ## Results
@@ -87,15 +81,15 @@ OpenAI consistently leads the industry in language model performance. Its genera
 ## Recommendations
 
 ### Proposed Product or Service
-**Domain-Specific AI Fine-Tuning Tools:** OpenAI should offer tools that allow businesses to fine-tune models for specialized industries, such as healthcare, legal, and education.
+**GPT-5:** Scaling of frontier models is their legacy and histroy. Small adjustments to GPT-4 will only carry them so far.
 
 ### Why This Matters
-- **Market Differentiation:** Helps OpenAI break into high-demand niche markets.  
-- **User Alignment:** Increases the precision of AI outputs for specific needs.  
+- **The Scaling Hypothesis:** Posits that more skill and capability will emerge with scale of compute and size of model.
+- **AI Arms Race:** Other Companies such as Google or xAI will train a larger model soon.
 
 ### Technologies Required
-- **Transfer Learning:** To adapt general-purpose models for specific domains.  
-- **Federated Learning:** To protect sensitive data while improving model performance.
+- **Nvidia GPUs:** The foundation of training large language models and other large nueral nets.
+- **Enormously Powerful Data Centers:** To house and run all of these cutting-edge GPUs.
 
 By developing these tools, OpenAI could enhance its offerings, attract specialized industries, and further its mission of broadly beneficial AI.
 
@@ -107,3 +101,7 @@ By developing these tools, OpenAI could enhance its offerings, attract specializ
 2. [TechCrunch: OpenAI’s Role in Generative AI](https://techcrunch.com/)  
 3. [Microsoft’s Partnership with OpenAI](https://blogs.microsoft.com/)  
 4. [Towards Data Science: RLHF in GPT Models](https://towardsdatascience.com/)
+5. [Dwarkesh Patel YouTube Channel](https://www.youtube.com/@dwarkeshpatel)
+6. [Machine Learning Street Talk YouTube Channel](https://www.youtube.com/@MachineLearningStreetTalk)
+7. [Lex Fridman YouTube Channel](https://www.youtube.com/@lexfridman)
+
