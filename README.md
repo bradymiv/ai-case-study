@@ -7,7 +7,7 @@
 - **Founders:** Elon Musk, Sam Altman, Greg Brockman, Ilya Sutskever, Wojciech Zaremba, and John Schulman  
 - **Mission:** To ensure artificial general intelligence (AGI) benefits all of humanity.  
 
-OpenAI’s founding idea emerged from the recognition that AI technology, if developed improperly, could pose significant risks. The company’s mission reflects a commitment to aligning AGI with human values. OpenAI transitioned from a non-profit to a "capped-profit" model to attract more funding and sustain its ambitious goals.  
+OpenAI’s founding idea emerged from the recognition that AI technology, if developed improperly, could pose significant risks. The company’s mission reflects a commitment to aligning AGI with human values. OpenAI transitioned from a non-profit to a "capped-profit" model.
 
 **Funding:** OpenAI has raised significant funding, including over $11 billion from backers such as Microsoft. The company operates in close collaboration with Microsoft through the Azure cloud infrastructure, enabling scalable AI development and deployment.
 
@@ -57,7 +57,7 @@ OpenAI’s models, such as GPT-4, stand out for their versatility and performanc
 ### Major Competitors
 - **Google DeepMind:** Known for models like AlphaFold and Bard.  
 - **Anthropic:** Leaders in Intrepretability,, considered ethically-minded.
-- **xAI:** Elon Musks Ai company, plans to train the largest model in coming years.
+- **xAI:** Elon Musk's AI company, plans to train the largest model in coming years.
 - **Meta AI:** Developing cutting-edge open-source models like LLaMA.  
 
 [Dwarkesh Patel YouTube Channel](https://www.youtube.com/@dwarkeshpatel)
